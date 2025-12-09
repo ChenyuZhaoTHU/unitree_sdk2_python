@@ -1,7 +1,9 @@
 """
 " service name
 """
-LOCO_SERVICE_NAME = "sport"
+# LOCO_SERVICE_NAME = "sport"
+LOCO_SERVICE_NAME = "loco"
+
 
 
 """
